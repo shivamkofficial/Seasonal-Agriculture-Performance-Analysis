@@ -236,9 +236,9 @@ The project can be further improved by:
 
 ## 👨‍💻 Author
 
-**Student Name: Shivam Kumar**
+**Student Name: SHIVAM KUMAR**
 
-**College: SUYASH INSTITUTE OF INFORMATION TECHNOLOGY Gorakhpur**
+**College: SUYASH INSTITUTE OF INFORMATION TECHNOLOGY GORAKHPUR**
 
 **AICTE Student ID: STU6a1838239276c1779972131**
 
