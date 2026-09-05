@@ -180,7 +180,7 @@ Seasonal-Agriculture-Performance-Analysis/
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shivamkofficial/Seasonal-Agriculture-Performance-Analysis.git
 ```
 
 ### Step 2: Open the project folder
